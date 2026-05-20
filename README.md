@@ -45,7 +45,8 @@ Resize the frame and rotate it using OpenCV functions, then display the processe
 ### Developed By:
 **Name:** SANJAI U
 
-### Register No: 212224240145
+### Register No: 
+212224240145
 
 ---
 
